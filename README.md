@@ -1,4 +1,4 @@
-# <Project Name>
+# Dicee
 
 <Project Description>
 
